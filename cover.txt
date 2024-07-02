@@ -1,0 +1,23 @@
+Dear Hiring Manager at Adler,
+
+I am writing to express my strong interest in the Development Team Intern position at Adler. As a passionate and dedicated software developer with a keen interest in 3D web technologies and virtual reality, I am excited by the opportunity to contribute to Adler's mission of making virtual reality surpass the physical world.
+
+My background in Information Technology, coupled with my experience as a Full Stack Software and Infra Developer at PriceLabs, has equipped me with a solid foundation in both front-end and back-end development. I am proficient in languages such as Python, Go, and Ruby, and have hands-on experience with frameworks like Django, FASTAPI, and Rails. My skills align well with Adler's tech stack and the responsibilities outlined for this internship.
+
+What particularly draws me to Adler is your commitment to innovation and your vision of creating a virtual reality where individuals can truly be themselves. I am impressed by your company culture, especially the emphasis on "going the extra mile 24/7 to be the best at what we love." This resonates strongly with my own work ethic and passion for continuous improvement.
+
+Some key strengths I bring to this role include:
+
+1. Strong problem-solving and analytical skills, demonstrated through my work on complex infrastructure projects and full-stack development.
+2. Proficiency in JavaScript and Python, as well as experience with various databases and cloud platforms.
+3. A proven track record of working in fast-paced environments and delivering functional solutions.
+4. An obsession with optimization and writing efficient code, as evidenced by my work on improving search times by 200% in a previous role.
+
+I am particularly excited about the opportunity to work on Adler's innovative 3D content creation platform and contribute to the development of the XRML language and engine. My experience with data visualization tools and GUI development, as seen in my contributions to projects like PyqtGraph, would be valuable in this context.
+
+Furthermore, I am drawn to Adler's commitment to diversity and inclusion. As someone fluent in English and conversational in Japanese, I value the opportunity to work in a global, multicultural environment.
+
+I am eager to bring my skills, passion, and dedication to Adler and contribute to your groundbreaking work in 3D web technology. Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to Adler's success.
+
+Sincerely,
+Kanak Chaudhari
